@@ -1,0 +1,8 @@
+{
+"name":"quark icon", 
+"description":"夸克图标。", 
+"icons":
+    [
+	{"name":"quark", "url":"https://raw.githubusercontent.com/Zmn20001226/icons/main/quark.png"}
+    ]
+}
